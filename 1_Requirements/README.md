@@ -25,7 +25,7 @@ Depending upon the project how well it is built and all the requirements will me
 ## Defining Our System
   **Architecture:**
   
-   ![Architecture](https://user-images.githubusercontent.com/36398260/113976051-0bf6bf00-985e-11eb-82ba-8e720062fe61.PNG)
+   ![Architecture](https://github.com/yash2220/M1_Application_Calculator/blob/main/1_Requirements/Arithmetic%20operation.png)
 
    
  - Scientific Calculator application is capable of performing following functions:
@@ -45,7 +45,7 @@ Depending upon the project how well it is built and all the requirements will me
     
 
 ## SWOT ANALYSIS
-![swot analysis](https://user-images.githubusercontent.com/36398260/113824520-89a6c600-979d-11eb-99d8-b258873850a1.png)
+![swot analysis](https://github.com/yash2220/M1_Application_Calculator/blob/main/1_Requirements/SWOT.png)
 
 
 # 4W&#39;s and 1&#39;H
