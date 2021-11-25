@@ -29,7 +29,7 @@ Depending upon the project how well it is built and all the requirements will me
 
    
  - Scientific Calculator application is capable of performing following functions:
-	   - Arithmetic Operations
+	- Arithmetic Operations
 		 - MUL 
 		 - SUB
 		 - DIV
